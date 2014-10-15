@@ -1,3 +1,21 @@
+# MODEL9086518048: testid
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/MODEL9086518048.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/MODEL9086518048.git@20140916`
+
+
+# Model Notes
 This is the basic model of AMPAR trafficking bistability. It is based on Hayer
 and Bhalla, PLoS Comput. Biol. 2005. It includes the degradation and turnover
 of AMPARs. The CaMKII portion of the model is not bistable.
@@ -21,4 +39,5 @@ Dharuri H, Endler L, Chelliah V, Li L, He E, Henry A, Stefan MI, Snoep JL,
 Hucka M, Le Novère N, Laibe C (2010) BioModels Database: An enhanced, curated
 and annotated resource for published quantitative kinetic models. BMC Syst
 Biol., 4:92.](http://www.ncbi.nlm.nih.gov/pubmed/20587024)
+
 
